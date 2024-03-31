@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurvs&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurvs" /> </p>
 
-<img align="right" width="370" height="290" src="https://pin.it/5h6L140Rb">
+<img align="right" width="370" height="290" src="https://www.pinterest.com/pin/732257220679047715/sent/?invite_code=1cf5c4872eaf443aba4ee5d2a3cf6605&sender=762867761788721791&sfo=1">
 
 - 🔭 Here's my [portfolio](https://vishnusiddhan-portfolio.vercel.app/)
 - 🌱 I’m currently learning **Front-End Development**
