@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm R.Vishnu Siddhan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif" alt="vishnurvs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurvs&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurvs" /> </p>
 
-<img align="right" width="370" height="290" src="Adding Grain texure.gif">
+<img align="right" width="370" height="290" src="[Adding Grain texure.gif](https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif)">
 
 - 🔭 Here's my [portfolio](https://vishnusiddhan-portfolio.vercel.app/)
 - 🌱 I’m currently learning **Front-End Development**
