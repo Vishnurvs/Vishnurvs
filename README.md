@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurvs&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurvs" /> </p>
 
-- 🔭 Here's my [portfolio]([https://vishnusiddhan-portfolio.vercel.app/])
+- 🔭 Here's my [portfolio](https://vishnusiddhan-portfolio.vercel.app/)
 - 🌱 I’m currently learning **Front-End Development**
 
 - 👯 I’m looking to collaborate on **Fullstack Development**
