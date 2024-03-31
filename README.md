@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **rvishnusiddhan9@gmail.com**
 
+- - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCF2l3B_xHsAW3XB1fGBdBzA)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCF2l3B_xHsAW3XB1fGBdBzA)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnu-siddhan-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-siddhan-r/" height="30" width="40" /></a>
