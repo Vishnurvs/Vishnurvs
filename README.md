@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rvishnusiddhan9@gmail.com**
 
-- - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCF2l3B_xHsAW3XB1fGBdBzA)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCF2l3B_xHsAW3XB1fGBdBzA)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCF2l3B_xHsAW3XB1fGBdBzA)
 
 <h3 align="left">Connect with me:</h3>
