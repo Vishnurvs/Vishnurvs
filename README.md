@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurvs&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurvs" /> </p>
 
-<img align="right" width="370" height="290" src="C:/Users/Vishnu/Downloads/Adding%20Grain%20texure.gif">
+<img align="right" width="370" height="290" src="https://pin.it/3kvztqtEf">
 
 - 🔭 Here's my [portfolio](https://vishnusiddhan-portfolio.vercel.app/)
 - 🌱 I’m currently learning **Front-End Development**
